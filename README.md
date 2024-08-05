@@ -32,13 +32,12 @@ ResNet-50 outperformed the others, which led us to select it as our final model.
 | F1-Score           | 0.92783       | 0.89422         | 0.88218   |
 
 ## Visualisations
-![Training and Validation Loss](file:/Users/dhanushlalitha/Documents/GIT/EyeDiseasePrediction/loss.png)
-![ROC Curve](file:/Users/dhanushlalitha/Documents/GIT/EyeDiseasePrediction/roc.png)
+![Training and Validation Loss](loss.png)
+![ROC Curve](roc.png)
 ## Eye Disease Image Analysis
 Original Image Vs Normalised Vs Grad-CAM
 
-![Original Image Vs Normalised Vs Grad-CAM
-](file:/Users/dhanushlalitha/Documents/GIT/EyeDiseasePrediction/image_analysis.png)
+![Original Image Vs Normalised Vs Grad-CAM](image_analysis.png)
 
 ## Conclusions
 
